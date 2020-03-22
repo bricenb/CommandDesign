@@ -1,3 +1,4 @@
+//This method saves the desired document for the user 
 public class SaveCommand implements Command{
     private Document doc;
 
