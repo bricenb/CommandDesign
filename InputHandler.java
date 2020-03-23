@@ -1,3 +1,7 @@
+/**
+ * Jackson, Bricen, Thomas, John
+ * this class Holds a hashmap for the commands, and their input keys
+ */
 import java.util.HashMap;
 
 public class InputHandler {
