@@ -1,3 +1,6 @@
+/*
+ * This class uses the executive method from Command to check document for spelling errors.
+ */
 public class SpellCommand implements Command{
     private Document doc;
 
